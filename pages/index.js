@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Page owned by satmaku
+          Page owned by vdandu
         </p>
 
         <div className={styles.grid}>
